@@ -42,3 +42,11 @@ Since CoffeeScript compiles into JS, you don't even need to install CoffeeScript
 
 I'm on a journey to revive CoffeeScript. it is a beautiful language and is one of my favorites. Consider taking a look at [French Press CoffeeScript](https://github.com/chomp-it/Kahvi), which has been my main instrument in my journey.
 
+# The trimmed fat
+
+Earlier, I said the purpose of this implementation is to cut the fat, and cut the fat I did.
+
+My sole CoffeeScript file is ~72 lines long and is 2 kb. The C++ version contains 30+ files and is 2.8mb (not including the README or License files).
+
+
+
